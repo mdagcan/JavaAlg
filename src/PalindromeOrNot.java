@@ -15,6 +15,6 @@ public class PalindromeOrNot {
 
     public static void main(String[] args) {
         System.out.println(isPalindrome("madam"));
-        System.out.println(isPalindrome("hello"));  
+        System.out.println(isPalindrome("hello"));
     }
 }
