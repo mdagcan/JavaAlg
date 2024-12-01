@@ -1,0 +1,4 @@
+This is an example text file.
+It contains sample sentences.
+Feel free to modify or search through it.
+Java makes file handling easy.
